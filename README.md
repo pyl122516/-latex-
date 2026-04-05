@@ -16,4 +16,4 @@
 ## 可能出现的问题
 字体编译错误，可以尝试在TJUT\fonts\，安装字体文件
 ## 致谢
-本项目是基于https://github.com/LuYang-2023/TUTthesis修改而来
+本项目是基于https://github.com/LuYang-2023/TUTthesis 修改而来
