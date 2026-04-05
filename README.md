@@ -7,9 +7,12 @@
 * 内容包括目录、正文、参考文献三部分
 * 封面、摘要、学术成果以及致谢部分，使用学校发送的word模板转换为PDF与本项目生成的PDF文件合并。
 ## 写作
-1.正文部分，在TJUT\figures\chapter1、chapter2...\\
-2.图片放入TJUT\figures\，如\TJUT\figures\TUT_LOGO.jpg。\\
-3.参考文献放入TJUT\figures\reference.bib\\
+1.正文部分，在TJUT\figures\chapter1、chapter2...
+
+2.图片放入TJUT\figures\，如\TJUT\figures\TUT_LOGO.jpg。\
+
+3.参考文献放入TJUT\figures\reference.bib
+
 ## 可能出现的问题
 字体编译错误，可以尝试在TJUT\fonts\，安装字体文件
 ## 致谢
